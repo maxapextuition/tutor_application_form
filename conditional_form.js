@@ -1,4 +1,3 @@
-<script>
 var currentStept = 0;
 var stepst = document.getElementsByClassName('stept');
 var progressBar = document.querySelector('.progres-bar-t');
@@ -531,4 +530,3 @@ function tvalidateStep5() {
   
   return true;
 }
-</script>
